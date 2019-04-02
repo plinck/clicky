@@ -32,7 +32,7 @@ class Dashboard extends React.Component {
                             <div className="card-content">
                                 <span className="flow-text card-title">Score</span>
                                 <p>Current Score: {this.state.currentScore} </p>
-                                <p>Best Score: {this.state.currentScore} </p>
+                                <p>Best Score: {this.state.bestScore} </p>
                             </div>
                         </div>
                     </div>
