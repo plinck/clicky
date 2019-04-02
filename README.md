@@ -1,3 +1,36 @@
+# Clicky
+
+## Overview
+
+![Clicky](./public/images/Clicky275x200.png)
+
+Display list of images and allows user to click each trryoing to not click the same one twice.  Randomizes each time.
+
+**NOTE**:  Deployed to firebase.
+
+### Deployment
+
+Deployed to firebase.
+
+## Links
+
+* [Live Firebase](https://paullinck-clicky.firebaseapp.com)
+* [GitHub for this](https://github.com/plinck/clicky)
+* [My Portfolio](https://paullinck.com)
+
+## Technologies Used
+
+* [x] HTML/CSS/Javascript
+* [x] REACT
+* [x] Materialize
+* [x] Firebase Hosting Platform
+
+## Screenshots
+
+![ss1 animated](./public/images/ss1anim.gif)
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
